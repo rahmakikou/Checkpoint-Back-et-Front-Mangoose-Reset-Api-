@@ -1,0 +1,12 @@
+.carta {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 30px; 
+}
+
+.felsa {
+  display: flex;
+  justify-content: space-around;
+  font-size: x-large;
+} 
